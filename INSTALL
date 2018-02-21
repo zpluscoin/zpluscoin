@@ -1,0 +1,9 @@
+Building Zpluscoin
+
+See doc/readme-qt.rst for instructions on building Zpluscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Zpluscoin.
+
+See doc/build-*.txt for instructions on building Zpluscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zpluscoin.
